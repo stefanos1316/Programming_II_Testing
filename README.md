@@ -1,3 +1,3 @@
 # This is a test for GitHub
 
-Write your name here: <Konstantinos>
+Write your name here: Konstantinos
